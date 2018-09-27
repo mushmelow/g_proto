@@ -1,0 +1,26 @@
+.navbar-collapse{
+  max-width:1100px;
+  margin:auto;
+}
+
+.thead-sphinx{background-color:#4a6e91; color:#eee;}
+.trbold{font-weight: bold;}
+
+.dashboard-element {
+  margin: 10px 5px;
+  padding: 20px 20px 10px;
+}
+.dashboard-element-title{
+  margin-bottom:30px;
+}
+#vtsLogo{
+	background-image: url("../images/SPHiNX_logo.png");
+	position: absolute;
+  top: 2px;
+  left: 15px;
+  width: 179px;
+  height: 85px;
+}
+.vtsHeader{
+	height:85px;background-color:#1a3f71;
+}
